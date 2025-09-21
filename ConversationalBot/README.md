@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi1101&label=Profile%20views&color=0e75b6&style=flat" alt="aadi1101" /> </p>
+
 
 # Gemini Conversational AI
 
